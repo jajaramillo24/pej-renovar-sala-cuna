@@ -3,7 +3,7 @@
     "id": "c0",
     "owner": "Guille",
     "name": "Abregu Martin Isaias",
-    "greeting": "Abregu Martin Isaias",
+    "greeting": "Martin",
     "phone": "3812363979",
     "role": "Operario"
   },
@@ -11,7 +11,7 @@
     "id": "c1",
     "owner": "Guille",
     "name": "Acosta Nelson Maximiliano",
-    "greeting": "Acosta Nelson Maximiliano",
+    "greeting": "Nelson",
     "phone": "3512428454",
     "role": "Operario"
   },
@@ -19,7 +19,7 @@
     "id": "c2",
     "owner": "Guille",
     "name": "Aguilera Bautista Nadir",
-    "greeting": "Aguilera Bautista Nadir",
+    "greeting": "Bautista",
     "phone": "3515641038",
     "role": "Operario"
   },
@@ -27,7 +27,7 @@
     "id": "c3",
     "owner": "Guille",
     "name": "Aguilera Celeste Candelaria",
-    "greeting": "Aguilera Celeste Candelaria",
+    "greeting": "Celeste",
     "phone": "3518557098",
     "role": "Maestranza"
   },
@@ -35,7 +35,7 @@
     "id": "c4",
     "owner": "Guille",
     "name": "Albarracin Nicolas Leonel",
-    "greeting": "Albarracin Nicolas Leonel",
+    "greeting": "Nicolas",
     "phone": "3513705630",
     "role": "Operario"
   },
@@ -43,7 +43,7 @@
     "id": "c5",
     "owner": "Guille",
     "name": "Altamira Franco Augusto",
-    "greeting": "Altamira Franco Augusto",
+    "greeting": "Franco",
     "phone": "3512056732",
     "role": "Operario"
   },
@@ -51,7 +51,7 @@
     "id": "c6",
     "owner": "Guille",
     "name": "Altamirano Marcos Alexis",
-    "greeting": "Altamirano Marcos Alexis",
+    "greeting": "Marcos",
     "phone": "3543693416",
     "role": "Operario"
   },
@@ -59,7 +59,7 @@
     "id": "c7",
     "owner": "Guille",
     "name": "Arias Reartes Fabrizio",
-    "greeting": "Arias Reartes Fabrizio",
+    "greeting": "Fabrizio",
     "phone": "3543208844",
     "role": "Operario"
   },
@@ -67,7 +67,7 @@
     "id": "c8",
     "owner": "Guille",
     "name": "Arrieta Daiana",
-    "greeting": "Arrieta Daiana",
+    "greeting": "Daiana",
     "phone": "3515600615",
     "role": "Maestranza"
   },
@@ -75,7 +75,7 @@
     "id": "c9",
     "owner": "Guille",
     "name": "Arrieta Isis Yohana Marcela",
-    "greeting": "Arrieta Isis Yohana Marcela",
+    "greeting": "Isis",
     "phone": "3543212249",
     "role": "Profesores"
   },
@@ -83,7 +83,7 @@
     "id": "c10",
     "owner": "Guille",
     "name": "Balzza Selene Abigail",
-    "greeting": "Balzza Selene Abigail",
+    "greeting": "Selene",
     "phone": "3543310082",
     "role": "Inspección"
   },
@@ -91,7 +91,7 @@
     "id": "c11",
     "owner": "Guille",
     "name": "Barrera Tatiana Celeste",
-    "greeting": "Barrera Tatiana Celeste",
+    "greeting": "Tatiana",
     "phone": "3512590562",
     "role": "Administrativo"
   },
@@ -99,7 +99,7 @@
     "id": "c12",
     "owner": "Guille",
     "name": "Bautista Maximiliano Nahuel",
-    "greeting": "Bautista Maximiliano Nahuel",
+    "greeting": "Maximiliano",
     "phone": "3543312883",
     "role": "Operario"
   },
@@ -107,7 +107,7 @@
     "id": "c13",
     "owner": "Guille",
     "name": "Bazan Tatiana Nicole",
-    "greeting": "Bazan Tatiana Nicole",
+    "greeting": "Tatiana",
     "phone": "3517413497",
     "role": "Profesores"
   },
@@ -115,7 +115,7 @@
     "id": "c14",
     "owner": "Guille",
     "name": "Benejam Eber Matias",
-    "greeting": "Benejam Eber Matias",
+    "greeting": "Eber",
     "phone": "3513584192",
     "role": "Administrativo"
   },
@@ -123,7 +123,7 @@
     "id": "c15",
     "owner": "Guille",
     "name": "Bognanni Salvador",
-    "greeting": "Bognanni Salvador",
+    "greeting": "Salvador",
     "phone": "3517489938",
     "role": "Administrativo"
   },
@@ -131,7 +131,7 @@
     "id": "c16",
     "owner": "Guille",
     "name": "Bordon Ceballos Milena Jazmin",
-    "greeting": "Bordon Ceballos Milena Jazmin",
+    "greeting": "Milena",
     "phone": "3512637822",
     "role": "Inspección"
   },
@@ -139,7 +139,7 @@
     "id": "c17",
     "owner": "Guille",
     "name": "Brizuela Axel Nicolas",
-    "greeting": "Brizuela Axel Nicolas",
+    "greeting": "Axel",
     "phone": "3518581590",
     "role": "Operario"
   },
@@ -147,7 +147,7 @@
     "id": "c18",
     "owner": "Guille",
     "name": "Brizuela Matias Walter",
-    "greeting": "Brizuela Matias Walter",
+    "greeting": "Matias",
     "phone": "3543699358",
     "role": "Operario"
   },
@@ -155,7 +155,7 @@
     "id": "c19",
     "owner": "Guille",
     "name": "Bustamante Melanie Yasmin",
-    "greeting": "Bustamante Melanie Yasmin",
+    "greeting": "Melanie",
     "phone": "3518740592",
     "role": "Profesores"
   },
@@ -163,7 +163,7 @@
     "id": "c20",
     "owner": "Guille",
     "name": "Cabezuelo Tomas",
-    "greeting": "Cabezuelo Tomas",
+    "greeting": "Tomas",
     "phone": "3543632071",
     "role": "Operario"
   },
@@ -171,7 +171,7 @@
     "id": "c21",
     "owner": "Guille",
     "name": "Calderon Ramiro Mariano",
-    "greeting": "Calderon Ramiro Mariano",
+    "greeting": "Ramiro",
     "phone": "3543202481",
     "role": "Operario"
   },
@@ -179,7 +179,7 @@
     "id": "c22",
     "owner": "Mili",
     "name": "Casas Chiara Delfina",
-    "greeting": "Casas Chiara Delfina",
+    "greeting": "Chiara",
     "phone": "351551119",
     "role": "Administrativo"
   },
@@ -187,7 +187,7 @@
     "id": "c23",
     "owner": "Mili",
     "name": "Castillo Diaz Fabio Joel",
-    "greeting": "Castillo Diaz Fabio Joel",
+    "greeting": "Fabio",
     "phone": "3517490054",
     "role": "Inspección"
   },
@@ -195,7 +195,7 @@
     "id": "c24",
     "owner": "Mili",
     "name": "Castillo Lautaro Elias",
-    "greeting": "Castillo Lautaro Elias",
+    "greeting": "Lautaro",
     "phone": "3543581693",
     "role": "Administrativo"
   },
@@ -203,7 +203,7 @@
     "id": "c25",
     "owner": "Mili",
     "name": "Chanquia Florencia Yasmin",
-    "greeting": "Chanquia Florencia Yasmin",
+    "greeting": "Florencia",
     "phone": "3543693550",
     "role": "Operario"
   },
@@ -211,7 +211,7 @@
     "id": "c26",
     "owner": "Mili",
     "name": "Charra Morena Delfina",
-    "greeting": "Charra Morena Delfina",
+    "greeting": "Morena",
     "phone": "3516004288",
     "role": "Maestranza"
   },
@@ -219,7 +219,7 @@
     "id": "c27",
     "owner": "Mili",
     "name": "Citterio Simon Brenda Sharon",
-    "greeting": "Citterio Simon Brenda Sharon",
+    "greeting": "Brenda",
     "phone": "3543548931",
     "role": "Administrativo"
   },
@@ -227,7 +227,7 @@
     "id": "c28",
     "owner": "Mili",
     "name": "Cordoba Ignacio",
-    "greeting": "Cordoba Ignacio",
+    "greeting": "Ignacio",
     "phone": "3515520714",
     "role": "Profesores"
   },
@@ -235,7 +235,7 @@
     "id": "c29",
     "owner": "Mili",
     "name": "Coronel Ana Tiziana",
-    "greeting": "Coronel Ana Tiziana",
+    "greeting": "Ana",
     "phone": "3543232582",
     "role": "Profesores"
   },
@@ -243,7 +243,7 @@
     "id": "c30",
     "owner": "Mili",
     "name": "Correa Cristian Ismael",
-    "greeting": "Correa Cristian Ismael",
+    "greeting": "Cristian",
     "phone": "3513589991",
     "role": "Administrativo"
   },
@@ -251,7 +251,7 @@
     "id": "c31",
     "owner": "Mili",
     "name": "Cuadro Dylan",
-    "greeting": "Cuadro Dylan",
+    "greeting": "Dylan",
     "phone": "3517392398",
     "role": "Operario"
   },
@@ -259,7 +259,7 @@
     "id": "c32",
     "owner": "Mili",
     "name": "Cuevas Carranza Joaquin Augusto",
-    "greeting": "Cuevas Carranza Joaquin Augusto",
+    "greeting": "Joaquin",
     "phone": "3515501572",
     "role": "Administrativo"
   },
@@ -267,7 +267,7 @@
     "id": "c33",
     "owner": "Mili",
     "name": "Cueyo Velez Milena Abigail",
-    "greeting": "Cueyo Velez Milena Abigail",
+    "greeting": "Milena",
     "phone": "3513463612",
     "role": "Inspección"
   },
@@ -275,7 +275,7 @@
     "id": "c34",
     "owner": "Mili",
     "name": "De Simone Erika Del Valle",
-    "greeting": "De Simone Erika Del Valle",
+    "greeting": "Erika",
     "phone": "3517489875",
     "role": "Maestranza"
   },
@@ -283,7 +283,7 @@
     "id": "c35",
     "owner": "Mili",
     "name": "Del Soto Camila Jazmin",
-    "greeting": "Del Soto Camila Jazmin",
+    "greeting": "Camila",
     "phone": "3513587824",
     "role": "Maestranza"
   },
@@ -291,7 +291,7 @@
     "id": "c36",
     "owner": "Mili",
     "name": "Diaz Ignacio Tobias",
-    "greeting": "Diaz Ignacio Tobias",
+    "greeting": "Ignacio",
     "phone": "3516328357",
     "role": "Operario"
   },
@@ -299,7 +299,7 @@
     "id": "c37",
     "owner": "Mili",
     "name": "Dominguez Braian Alexis",
-    "greeting": "Dominguez Braian Alexis",
+    "greeting": "Braian",
     "phone": "3543636301",
     "role": "Operario"
   },
@@ -307,7 +307,7 @@
     "id": "c38",
     "owner": "Mili",
     "name": "Escobar Natasha Milena",
-    "greeting": "Escobar Natasha Milena",
+    "greeting": "Natasha",
     "phone": "3512391075",
     "role": "Maestranza"
   },
@@ -315,7 +315,7 @@
     "id": "c39",
     "owner": "Mili",
     "name": "Espeche Julia Agustina",
-    "greeting": "Espeche Julia Agustina",
+    "greeting": "Julia",
     "phone": "3518098456",
     "role": "Inspección"
   },
@@ -323,7 +323,7 @@
     "id": "c40",
     "owner": "Mili",
     "name": "Espil Benjamin Ricardo",
-    "greeting": "Espil Benjamin Ricardo",
+    "greeting": "Benjamin",
     "phone": "3518730878",
     "role": "Operario"
   },
@@ -331,7 +331,7 @@
     "id": "c41",
     "owner": "Mili",
     "name": "Fernandez Gonzalo Leandro",
-    "greeting": "Fernandez Gonzalo Leandro",
+    "greeting": "Gonzalo",
     "phone": "3513536383",
     "role": "Operario"
   },
@@ -339,7 +339,7 @@
     "id": "c42",
     "owner": "Mili",
     "name": "Figueroa Lucia Melisa",
-    "greeting": "Figueroa Lucia Melisa",
+    "greeting": "Lucia",
     "phone": "3517527727",
     "role": "Inspección"
   },
@@ -347,7 +347,7 @@
     "id": "c43",
     "owner": "Mili",
     "name": "Flores Macarena Lilian",
-    "greeting": "Flores Macarena Lilian",
+    "greeting": "Macarena",
     "phone": "3515902250",
     "role": "Profesores"
   },
@@ -355,7 +355,7 @@
     "id": "c44",
     "owner": "Lauti",
     "name": "Gimenez Vilches Ludmila Anahid",
-    "greeting": "Gimenez Vilches Ludmila Anahid",
+    "greeting": "Ludmila",
     "phone": "3543537776",
     "role": "Profesores"
   },
@@ -363,7 +363,7 @@
     "id": "c45",
     "owner": "Lauti",
     "name": "Godoy Alegra Nair",
-    "greeting": "Godoy Alegra Nair",
+    "greeting": "Alegra",
     "phone": "3515632335",
     "role": "Maestranza"
   },
@@ -371,7 +371,7 @@
     "id": "c46",
     "owner": "Lauti",
     "name": "Gomez Candela Marisol",
-    "greeting": "Gomez Candela Marisol",
+    "greeting": "Candela",
     "phone": "3517519493",
     "role": "Operario"
   },
@@ -379,7 +379,7 @@
     "id": "c47",
     "owner": "Lauti",
     "name": "Gonzalez Fausto",
-    "greeting": "Gonzalez Fausto",
+    "greeting": "Fausto",
     "phone": "3517048909",
     "role": "Operario"
   },
@@ -387,7 +387,7 @@
     "id": "c48",
     "owner": "Lauti",
     "name": "Gonzalez Franco",
-    "greeting": "Gonzalez Franco",
+    "greeting": "Franco",
     "phone": "3517600542",
     "role": "Operario"
   },
@@ -395,7 +395,7 @@
     "id": "c49",
     "owner": "Lauti",
     "name": "Gonzalez Mailen Del Rosario",
-    "greeting": "Gonzalez Mailen Del Rosario",
+    "greeting": "Mailen",
     "phone": "3517017420",
     "role": "Inspección"
   },
@@ -403,7 +403,7 @@
     "id": "c50",
     "owner": "Lauti",
     "name": "Gonzalez Mateo Yoel",
-    "greeting": "Gonzalez Mateo Yoel",
+    "greeting": "Mateo",
     "phone": "3543614940",
     "role": "Operario"
   },
@@ -411,7 +411,7 @@
     "id": "c51",
     "owner": "Lauti",
     "name": "Gonzalez Zoe Antonella",
-    "greeting": "Gonzalez Zoe Antonella",
+    "greeting": "Zoe",
     "phone": "3543638042",
     "role": "Inspección"
   },
@@ -419,7 +419,7 @@
     "id": "c52",
     "owner": "Lauti",
     "name": "Guerrero Camila Jazmin",
-    "greeting": "Guerrero Camila Jazmin",
+    "greeting": "Camila",
     "phone": "3518017705",
     "role": "Inspección"
   },
@@ -427,7 +427,7 @@
     "id": "c53",
     "owner": "Lauti",
     "name": "Heredia Iara Mariel",
-    "greeting": "Heredia Iara Mariel",
+    "greeting": "Iara",
     "phone": "3515328316",
     "role": "Administrativo"
   },
@@ -435,7 +435,7 @@
     "id": "c54",
     "owner": "Lauti",
     "name": "Heredia Tania Guadalupe",
-    "greeting": "Heredia Tania Guadalupe",
+    "greeting": "Tania",
     "phone": "3543410783",
     "role": "Profesores"
   },
@@ -443,7 +443,7 @@
     "id": "c55",
     "owner": "Lauti",
     "name": "Lezcano Melani Gimena",
-    "greeting": "Lezcano Melani Gimena",
+    "greeting": "Melani",
     "phone": "3517523976",
     "role": "Maestranza"
   },
@@ -451,7 +451,7 @@
     "id": "c56",
     "owner": "Lauti",
     "name": "Ligorria Milena Soledad",
-    "greeting": "Ligorria Milena Soledad",
+    "greeting": "Milena",
     "phone": "3543311624",
     "role": "Profesores"
   },
@@ -459,7 +459,7 @@
     "id": "c57",
     "owner": "Lauti",
     "name": "Lujan Melva Nara",
-    "greeting": "Lujan Melva Nara",
+    "greeting": "Melva",
     "phone": "3874488727",
     "role": "Operario"
   },
@@ -467,7 +467,7 @@
     "id": "c58",
     "owner": "Lauti",
     "name": "Mansilla Farias Ariadna Paola",
-    "greeting": "Mansilla Farias Ariadna Paola",
+    "greeting": "Ariadna",
     "phone": "3517646409",
     "role": "Profesores"
   },
@@ -475,7 +475,7 @@
     "id": "c59",
     "owner": "Lauti",
     "name": "Mansilla Farias Maribel Priscila",
-    "greeting": "Mansilla Farias Maribel Priscila",
+    "greeting": "Maribel",
     "phone": "3517646394",
     "role": "Profesores"
   },
@@ -483,7 +483,7 @@
     "id": "c60",
     "owner": "Lauti",
     "name": "Mansilla Farias Sabrina Claribel",
-    "greeting": "Mansilla Farias Sabrina Claribel",
+    "greeting": "Sabrina",
     "phone": "3518606973",
     "role": "Profesores"
   },
@@ -491,7 +491,7 @@
     "id": "c61",
     "owner": "Lauti",
     "name": "Marquez Abraham Isaias",
-    "greeting": "Marquez Abraham Isaias",
+    "greeting": "Abraham",
     "phone": "3513925081",
     "role": "Operario"
   },
@@ -499,7 +499,7 @@
     "id": "c62",
     "owner": "Lauti",
     "name": "Martinez Barbara Yazmin",
-    "greeting": "Martinez Barbara Yazmin",
+    "greeting": "Barbara",
     "phone": "1161400726",
     "role": "Inspección"
   },
@@ -507,7 +507,7 @@
     "id": "c63",
     "owner": "Lauti",
     "name": "Martinez Brisa Agustina",
-    "greeting": "Martinez Brisa Agustina",
+    "greeting": "Brisa",
     "phone": "3517306264",
     "role": "Operario"
   },
@@ -515,7 +515,7 @@
     "id": "c64",
     "owner": "Lauti",
     "name": "Martinez Maite Mabel",
-    "greeting": "Martinez Maite Mabel",
+    "greeting": "Maite",
     "phone": "3512506796",
     "role": "Maestranza"
   },
@@ -523,7 +523,7 @@
     "id": "c65",
     "owner": "Lauti",
     "name": "Martinez Mia Nicole",
-    "greeting": "Martinez Mia Nicole",
+    "greeting": "Mia",
     "phone": "35120133093",
     "role": "Profesores"
   },
@@ -531,7 +531,7 @@
     "id": "c66",
     "owner": "Nai",
     "name": "Martinez Zoe Ludmila",
-    "greeting": "Martinez Zoe Ludmila",
+    "greeting": "Zoe",
     "phone": "3513423387",
     "role": "Maestranza"
   },
@@ -539,7 +539,7 @@
     "id": "c67",
     "owner": "Nai",
     "name": "Martorano Mateo Noel",
-    "greeting": "Martorano Mateo Noel",
+    "greeting": "Mateo",
     "phone": "3543410019",
     "role": "Operario"
   },
@@ -547,7 +547,7 @@
     "id": "c68",
     "owner": "Nai",
     "name": "Martorano Uriel Angel",
-    "greeting": "Martorano Uriel Angel",
+    "greeting": "Uriel",
     "phone": "3543691468",
     "role": "Operario"
   },
@@ -555,7 +555,7 @@
     "id": "c69",
     "owner": "Nai",
     "name": "Maza Fernando Javier",
-    "greeting": "Maza Fernando Javier",
+    "greeting": "Fernando",
     "phone": "3518027743",
     "role": "Operario"
   },
@@ -563,7 +563,7 @@
     "id": "c70",
     "owner": "Nai",
     "name": "Molina Aldana",
-    "greeting": "Molina Aldana",
+    "greeting": "Aldana",
     "phone": "3543696890",
     "role": "Administrativo"
   },
@@ -571,7 +571,7 @@
     "id": "c71",
     "owner": "Nai",
     "name": "Molina Valentina",
-    "greeting": "Molina Valentina",
+    "greeting": "Valentina",
     "phone": "3513757376",
     "role": "Administrativo"
   },
@@ -579,7 +579,7 @@
     "id": "c72",
     "owner": "Nai",
     "name": "Monje Nadia Lucia",
-    "greeting": "Monje Nadia Lucia",
+    "greeting": "Nadia",
     "phone": "3541660755",
     "role": "Profesores"
   },
@@ -587,7 +587,7 @@
     "id": "c73",
     "owner": "Nai",
     "name": "Moreno Nahuel Ivan",
-    "greeting": "Moreno Nahuel Ivan",
+    "greeting": "Nahuel",
     "phone": "3512324159",
     "role": "Operario"
   },
@@ -595,7 +595,7 @@
     "id": "c74",
     "owner": "Nai",
     "name": "Moreno Rivera Celeste Melina",
-    "greeting": "Moreno Rivera Celeste Melina",
+    "greeting": "Celeste",
     "phone": "3543606134",
     "role": "Inspección"
   },
@@ -603,7 +603,7 @@
     "id": "c75",
     "owner": "Nai",
     "name": "Nieto Rios Geronimo De Jesus",
-    "greeting": "Nieto Rios Geronimo De Jesus",
+    "greeting": "Geronimo",
     "phone": "3826412355",
     "role": "Operario"
   },
@@ -611,7 +611,7 @@
     "id": "c76",
     "owner": "Nai",
     "name": "Olmedo Benjamin",
-    "greeting": "Olmedo Benjamin",
+    "greeting": "Benjamin",
     "phone": "3512007497",
     "role": "Operario"
   },
@@ -619,7 +619,7 @@
     "id": "c77",
     "owner": "Nai",
     "name": "Ormeno Martin Javier",
-    "greeting": "Ormeno Martin Javier",
+    "greeting": "Martin",
     "phone": "3513833151",
     "role": "Operario"
   },
@@ -627,7 +627,7 @@
     "id": "c78",
     "owner": "Nai",
     "name": "Osimani Fabrizio",
-    "greeting": "Osimani Fabrizio",
+    "greeting": "Fabrizio",
     "phone": "3515136770",
     "role": "Operario"
   },
@@ -635,7 +635,7 @@
     "id": "c79",
     "owner": "Nai",
     "name": "Paez Belen Lourdes",
-    "greeting": "Paez Belen Lourdes",
+    "greeting": "Belen",
     "phone": "3517560695",
     "role": "Inspección"
   },
@@ -643,7 +643,7 @@
     "id": "c80",
     "owner": "Nai",
     "name": "Paez Julio Exequiel",
-    "greeting": "Paez Julio Exequiel",
+    "greeting": "Julio",
     "phone": "3543698690",
     "role": "Operario"
   },
@@ -651,7 +651,7 @@
     "id": "c81",
     "owner": "Nai",
     "name": "Paez Perez Joel Marcelo",
-    "greeting": "Paez Perez Joel Marcelo",
+    "greeting": "Joel",
     "phone": "3518728680",
     "role": "Operario"
   },
@@ -659,7 +659,7 @@
     "id": "c82",
     "owner": "Nai",
     "name": "Paez Soraya Yasmin",
-    "greeting": "Paez Soraya Yasmin",
+    "greeting": "Soraya",
     "phone": "3512337707",
     "role": "Administrativo"
   },
@@ -667,7 +667,7 @@
     "id": "c83",
     "owner": "Nai",
     "name": "Palacio Rocio",
-    "greeting": "Palacio Rocio",
+    "greeting": "Rocio",
     "phone": "3512126951",
     "role": "Administrativo"
   },
@@ -675,7 +675,7 @@
     "id": "c84",
     "owner": "Nai",
     "name": "Patoco Ledezma Agustina Abigail",
-    "greeting": "Patoco Ledezma Agustina Abigail",
+    "greeting": "Agustina",
     "phone": "3516061589",
     "role": "Administrativo"
   },
@@ -683,7 +683,7 @@
     "id": "c85",
     "owner": "Nai",
     "name": "Peña Rodrigo Ezequiel",
-    "greeting": "Peña Rodrigo Ezequiel",
+    "greeting": "Rodrigo",
     "phone": "3543589683",
     "role": "Operario"
   },
@@ -691,7 +691,7 @@
     "id": "c86",
     "owner": "Nai",
     "name": "Perez Gimena Daniela",
-    "greeting": "Perez Gimena Daniela",
+    "greeting": "Gimena",
     "phone": "3518175253",
     "role": "Profesores"
   },
@@ -699,7 +699,7 @@
     "id": "c87",
     "owner": "Nai",
     "name": "Perez Ludmila Magali",
-    "greeting": "Perez Ludmila Magali",
+    "greeting": "Ludmila",
     "phone": "3517405967",
     "role": "Inspección"
   },
@@ -707,7 +707,7 @@
     "id": "c88",
     "owner": "Emi",
     "name": "Perez Molina Rodrigo Agustin",
-    "greeting": "Perez Molina Rodrigo Agustin",
+    "greeting": "Rodrigo",
     "phone": "3158166020",
     "role": "Operario"
   },
@@ -715,7 +715,7 @@
     "id": "c89",
     "owner": "Emi",
     "name": "Perez Yuliana Alejandra",
-    "greeting": "Perez Yuliana Alejandra",
+    "greeting": "Yuliana",
     "phone": "3517672652",
     "role": "Profesores"
   },
@@ -723,7 +723,7 @@
     "id": "c90",
     "owner": "Emi",
     "name": "Pizarro Cristian",
-    "greeting": "Pizarro Cristian",
+    "greeting": "Cristian",
     "phone": "3543554213",
     "role": "Profesores"
   },
@@ -731,7 +731,7 @@
     "id": "c91",
     "owner": "Emi",
     "name": "Poblete Chavez Candelaria Carolina",
-    "greeting": "Poblete Chavez Candelaria Carolina",
+    "greeting": "Candelaria",
     "phone": "3517642845",
     "role": "Profesores"
   },
@@ -739,7 +739,7 @@
     "id": "c92",
     "owner": "Emi",
     "name": "Pucheta Camila Ayelen",
-    "greeting": "Pucheta Camila Ayelen",
+    "greeting": "Camila",
     "phone": "3516515781",
     "role": "Profesores"
   },
@@ -747,7 +747,7 @@
     "id": "c93",
     "owner": "Emi",
     "name": "Quevedo Agustin Oscar",
-    "greeting": "Quevedo Agustin Oscar",
+    "greeting": "Agustin",
     "phone": "3512546024",
     "role": "Profesores"
   },
@@ -755,7 +755,7 @@
     "id": "c94",
     "owner": "Emi",
     "name": "Quinteros Lautaro Ezequiel",
-    "greeting": "Quinteros Lautaro Ezequiel",
+    "greeting": "Lautaro",
     "phone": "3543608345",
     "role": "Chofer"
   },
@@ -763,7 +763,7 @@
     "id": "c95",
     "owner": "Emi",
     "name": "Ramos-Villarroel Octavio",
-    "greeting": "Ramos-Villarroel Octavio",
+    "greeting": "Octavio",
     "phone": "3543578468",
     "role": "Operario"
   },
@@ -771,7 +771,7 @@
     "id": "c96",
     "owner": "Emi",
     "name": "Rivadera Celeste Jazmin",
-    "greeting": "Rivadera Celeste Jazmin",
+    "greeting": "Celeste",
     "phone": "3513472190",
     "role": "Profesores"
   },
@@ -779,7 +779,7 @@
     "id": "c97",
     "owner": "Emi",
     "name": "Robledo Lucas Daniel",
-    "greeting": "Robledo Lucas Daniel",
+    "greeting": "Lucas",
     "phone": "3543316556",
     "role": "Operario"
   },
@@ -787,7 +787,7 @@
     "id": "c98",
     "owner": "Emi",
     "name": "Roldan Ileana",
-    "greeting": "Roldan Ileana",
+    "greeting": "Ileana",
     "phone": "351339472",
     "role": "Administrativo"
   },
@@ -795,7 +795,7 @@
     "id": "c99",
     "owner": "Emi",
     "name": "Romano Zamira",
-    "greeting": "Romano Zamira",
+    "greeting": "Zamira",
     "phone": "3513477659",
     "role": "Profesores"
   },
@@ -803,7 +803,7 @@
     "id": "c100",
     "owner": "Emi",
     "name": "Romero Juan Ignacio",
-    "greeting": "Romero Juan Ignacio",
+    "greeting": "Juan",
     "phone": "3543572214",
     "role": "Operario"
   },
@@ -811,7 +811,7 @@
     "id": "c101",
     "owner": "Emi",
     "name": "Romero Karen Eluney",
-    "greeting": "Romero Karen Eluney",
+    "greeting": "Karen",
     "phone": "3512394138",
     "role": "Maestranza"
   },
@@ -819,7 +819,7 @@
     "id": "c102",
     "owner": "Emi",
     "name": "Romero Leonel Agustin",
-    "greeting": "Romero Leonel Agustin",
+    "greeting": "Leonel",
     "phone": "3516866905",
     "role": "Administrativo"
   },
@@ -827,7 +827,7 @@
     "id": "c103",
     "owner": "Emi",
     "name": "Romero Saira",
-    "greeting": "Romero Saira",
+    "greeting": "Saira",
     "phone": "3543205287",
     "role": "Administrativo"
   },
@@ -835,7 +835,7 @@
     "id": "c104",
     "owner": "Emi",
     "name": "Rubini Ignacio Nicolas",
-    "greeting": "Rubini Ignacio Nicolas",
+    "greeting": "Ignacio",
     "phone": "3543692626",
     "role": "Administrativo"
   },
@@ -843,7 +843,7 @@
     "id": "c105",
     "owner": "Emi",
     "name": "Saavedra Melody Florencia",
-    "greeting": "Saavedra Melody Florencia",
+    "greeting": "Melody",
     "phone": "3543200458",
     "role": "Maestranza"
   },
@@ -851,7 +851,7 @@
     "id": "c106",
     "owner": "Emi",
     "name": "Sabadell Elias Agustin",
-    "greeting": "Sabadell Elias Agustin",
+    "greeting": "Elias",
     "phone": "3543605319",
     "role": "Operario"
   },
@@ -859,7 +859,7 @@
     "id": "c107",
     "owner": "Emi",
     "name": "Salgado Florencia Catherine",
-    "greeting": "Salgado Florencia Catherine",
+    "greeting": "Florencia",
     "phone": "3513023332",
     "role": "Profesores"
   },
@@ -867,7 +867,7 @@
     "id": "c108",
     "owner": "Emi",
     "name": "Salgan Torres Lourdes Abigail",
-    "greeting": "Salgan Torres Lourdes Abigail",
+    "greeting": "Lourdes",
     "phone": "3512157030",
     "role": "Profesores"
   },
@@ -875,7 +875,7 @@
     "id": "c109",
     "owner": "Emi",
     "name": "Salinas Romero Agustina Magali",
-    "greeting": "Salinas Romero Agustina Magali",
+    "greeting": "Agustina",
     "phone": "3543601659",
     "role": "Inspección"
   },
@@ -883,7 +883,7 @@
     "id": "c110",
     "owner": "Jey",
     "name": "Salinas Romero Nicolas Agustin",
-    "greeting": "Salinas Romero Nicolas Agustin",
+    "greeting": "Nicolas",
     "phone": "3543205287",
     "role": "Inspección"
   },
@@ -891,7 +891,7 @@
     "id": "c111",
     "owner": "Jey",
     "name": "Sanabria Agustina",
-    "greeting": "Sanabria Agustina",
+    "greeting": "Agustina",
     "phone": "3515516130",
     "role": "Profesores"
   },
@@ -899,7 +899,7 @@
     "id": "c112",
     "owner": "Jey",
     "name": "Schmidt Morena Aldana",
-    "greeting": "Schmidt Morena Aldana",
+    "greeting": "Morena",
     "phone": "3512025612",
     "role": "Inspección"
   },
@@ -907,7 +907,7 @@
     "id": "c113",
     "owner": "Jey",
     "name": "Scocco Juan Ignacio",
-    "greeting": "Scocco Juan Ignacio",
+    "greeting": "Juan",
     "phone": "3467522167",
     "role": "Administrativo"
   },
@@ -915,7 +915,7 @@
     "id": "c114",
     "owner": "Jey",
     "name": "Silva Paloma Del Valle",
-    "greeting": "Silva Paloma Del Valle",
+    "greeting": "Paloma",
     "phone": "3543685749",
     "role": "Inspección"
   },
@@ -923,7 +923,7 @@
     "id": "c115",
     "owner": "Jey",
     "name": "Sosa Anabela Agustina",
-    "greeting": "Sosa Anabela Agustina",
+    "greeting": "Anabela",
     "phone": "3543585094",
     "role": "Inspección"
   },
@@ -931,7 +931,7 @@
     "id": "c116",
     "owner": "Jey",
     "name": "Sosa Sasha Janet",
-    "greeting": "Sosa Sasha Janet",
+    "greeting": "Sasha",
     "phone": "3518149907",
     "role": "Profesores"
   },
@@ -939,7 +939,7 @@
     "id": "c117",
     "owner": "Jey",
     "name": "Sotomayor Samira Carolina",
-    "greeting": "Sotomayor Samira Carolina",
+    "greeting": "Samira",
     "phone": "3513978620",
     "role": "Profesores"
   },
@@ -947,7 +947,7 @@
     "id": "c118",
     "owner": "Jey",
     "name": "Suarez Abigail Elizabeth",
-    "greeting": "Suarez Abigail Elizabeth",
+    "greeting": "Abigail",
     "phone": "3517558503",
     "role": "Maestranza"
   },
@@ -955,7 +955,7 @@
     "id": "c119",
     "owner": "Jey",
     "name": "Suarez Oriana",
-    "greeting": "Suarez Oriana",
+    "greeting": "Oriana",
     "phone": "3517417250",
     "role": "Profesores"
   },
@@ -963,7 +963,7 @@
     "id": "c120",
     "owner": "Jey",
     "name": "Tapia Ricardo Alejandro",
-    "greeting": "Tapia Ricardo Alejandro",
+    "greeting": "Ricardo",
     "phone": "3543301587",
     "role": "Inspección"
   },
@@ -971,7 +971,7 @@
     "id": "c121",
     "owner": "Jey",
     "name": "Valdez Roque Manuel",
-    "greeting": "Valdez Roque Manuel",
+    "greeting": "Roque",
     "phone": "3518606947",
     "role": "Operario"
   },
@@ -979,7 +979,7 @@
     "id": "c122",
     "owner": "Jey",
     "name": "Vazquez Soria Celeste Jazmin",
-    "greeting": "Vazquez Soria Celeste Jazmin",
+    "greeting": "Celeste",
     "phone": "3515142961",
     "role": "Maestranza"
   },
@@ -987,7 +987,7 @@
     "id": "c123",
     "owner": "Jey",
     "name": "Velez Ana Aylen",
-    "greeting": "Velez Ana Aylen",
+    "greeting": "Ana",
     "phone": "3512395997",
     "role": "Inspección"
   },
@@ -995,7 +995,7 @@
     "id": "c124",
     "owner": "Jey",
     "name": "Venezia Genesis",
-    "greeting": "Venezia Genesis",
+    "greeting": "Genesis",
     "phone": "3515280543",
     "role": "Administrativo"
   },
@@ -1003,7 +1003,7 @@
     "id": "c125",
     "owner": "Jey",
     "name": "Vera Franco Agustin",
-    "greeting": "Vera Franco Agustin",
+    "greeting": "Franco",
     "phone": "3517510069",
     "role": "Inspección"
   },
@@ -1011,7 +1011,7 @@
     "id": "c126",
     "owner": "Jey",
     "name": "Vera Josemir Alexander",
-    "greeting": "Vera Josemir Alexander",
+    "greeting": "Josemir",
     "phone": "3516366290",
     "role": "Operario"
   },
@@ -1019,7 +1019,7 @@
     "id": "c127",
     "owner": "Jey",
     "name": "Vergara Alvaro Martin",
-    "greeting": "Vergara Alvaro Martin",
+    "greeting": "Alvaro",
     "phone": "3513234341",
     "role": "Operario"
   },
@@ -1027,7 +1027,7 @@
     "id": "c128",
     "owner": "Jey",
     "name": "Zalazar Zoe",
-    "greeting": "Zalazar Zoe",
+    "greeting": "Zoe",
     "phone": "3512716510",
     "role": "Administrativo"
   },
@@ -1035,7 +1035,7 @@
     "id": "c129",
     "owner": "Jey",
     "name": "Zalazar Zoe Agustina",
-    "greeting": "Zalazar Zoe Agustina",
+    "greeting": "Zoe",
     "phone": "3513095757",
     "role": "Inspección"
   },
@@ -1043,7 +1043,7 @@
     "id": "c130",
     "owner": "Jey",
     "name": "Zapata Milagros Celeste",
-    "greeting": "Zapata Milagros Celeste",
+    "greeting": "Milagros",
     "phone": "3513530218",
     "role": "Administrativo"
   },
@@ -1051,7 +1051,7 @@
     "id": "c131",
     "owner": "Jey",
     "name": "Alvarez, Pablo Martin",
-    "greeting": "Alvarez, Pablo Martin",
+    "greeting": "Pablo",
     "phone": "3435256875",
     "role": "Medico"
   },
@@ -1059,7 +1059,7 @@
     "id": "c132",
     "owner": "Manuel",
     "name": "Bittor Guiliana",
-    "greeting": "Bittor Guiliana",
+    "greeting": "Guiliana",
     "phone": "3516642594",
     "role": "Admnistrativa"
   },
@@ -1067,7 +1067,7 @@
     "id": "c133",
     "owner": "Manuel",
     "name": "Campigotto Marco Andres",
-    "greeting": "Campigotto Marco Andres",
+    "greeting": "Marco",
     "phone": "3518126627",
     "role": "Administrativa"
   },
@@ -1075,7 +1075,7 @@
     "id": "c134",
     "owner": "Manuel",
     "name": "Celias, Fernando Exequiel",
-    "greeting": "Celias, Fernando Exequiel",
+    "greeting": "Fernando",
     "phone": "3704812931",
     "role": "Asesor externo"
   },
@@ -1083,7 +1083,7 @@
     "id": "c135",
     "owner": "Manuel",
     "name": "Drazer Julieta Valentina",
-    "greeting": "Drazer Julieta Valentina",
+    "greeting": "Julieta",
     "phone": "3543511294",
     "role": "Admnistrativa"
   },
@@ -1091,7 +1091,7 @@
     "id": "c136",
     "owner": "Manuel",
     "name": "Fuente Bruno Nicolás",
-    "greeting": "Fuente Bruno Nicolás",
+    "greeting": "Bruno",
     "phone": "3517663096",
     "role": "Coordinador"
   },
@@ -1099,7 +1099,7 @@
     "id": "c137",
     "owner": "Manuel",
     "name": "Guarneri Anabella",
-    "greeting": "Guarneri Anabella",
+    "greeting": "Anabella",
     "phone": "3517048050",
     "role": "Administracion"
   },
@@ -1107,7 +1107,7 @@
     "id": "c138",
     "owner": "Manuel",
     "name": "Ledesma Lautaro Carlos Ruben",
-    "greeting": "Ledesma Lautaro Carlos Ruben",
+    "greeting": "Lautaro",
     "phone": "3517040919",
     "role": "Operador de Agua y Saneamiento"
   },
@@ -1115,7 +1115,7 @@
     "id": "c139",
     "owner": "Manuel",
     "name": "Lescano Marcos Tomas",
-    "greeting": "Lescano Marcos Tomas",
+    "greeting": "Marcos",
     "phone": "3515584466",
     "role": "Administrativa"
   },
@@ -1123,7 +1123,7 @@
     "id": "c140",
     "owner": "Manuel",
     "name": "Linares Leonardo Agustin",
-    "greeting": "Linares Leonardo Agustin",
+    "greeting": "Leonardo",
     "phone": "3517467319",
     "role": "Veterinario"
   },
@@ -1131,7 +1131,7 @@
     "id": "c141",
     "owner": "Manuel",
     "name": "Lopez Marchese, Tomas Agustin",
-    "greeting": "Lopez Marchese, Tomas Agustin",
+    "greeting": "Tomas",
     "phone": "23454062159",
     "role": "Administrativo"
   },
@@ -1139,7 +1139,7 @@
     "id": "c142",
     "owner": "Manuel",
     "name": "Lozito Cardozo Renzo Giuliano",
-    "greeting": "Lozito Cardozo Renzo Giuliano",
+    "greeting": "Renzo",
     "phone": "3517505659",
     "role": "Lectura de medidores"
   },
@@ -1147,7 +1147,7 @@
     "id": "c143",
     "owner": "Manuel",
     "name": "Matiuada, Lucas",
-    "greeting": "Matiuada, Lucas",
+    "greeting": "Lucas",
     "phone": "2974258859",
     "role": "Tecnico"
   },
@@ -1155,7 +1155,7 @@
     "id": "c144",
     "owner": "Manuel",
     "name": "Mercado Alexis Nicolas",
-    "greeting": "Mercado Alexis Nicolas",
+    "greeting": "Alexis",
     "phone": "3543602567",
     "role": "Mantenimiento"
   },
@@ -1163,7 +1163,7 @@
     "id": "c145",
     "owner": "Manuel",
     "name": "Millone, Camila",
-    "greeting": "Millone, Camila",
+    "greeting": "Camila",
     "phone": "3512378503",
     "role": "Trabajo Social"
   },
@@ -1171,7 +1171,7 @@
     "id": "c146",
     "owner": "Manuel",
     "name": "Muradas Erika Silvana",
-    "greeting": "Muradas Erika Silvana",
+    "greeting": "Erika",
     "phone": "3512155695",
     "role": "Administrativa"
   },
@@ -1179,7 +1179,7 @@
     "id": "c147",
     "owner": "Manuel",
     "name": "Ontivero Gabriel Angel",
-    "greeting": "Ontivero Gabriel Angel",
+    "greeting": "Gabriel",
     "phone": "3517508787",
     "role": "Coordinador en Deportes"
   },
@@ -1187,7 +1187,7 @@
     "id": "c148",
     "owner": "Manuel",
     "name": "Paulone, Nelson",
-    "greeting": "Paulone, Nelson",
+    "greeting": "Nelson",
     "phone": "3517638725",
     "role": "Mantenimiento"
   },
@@ -1195,7 +1195,7 @@
     "id": "c149",
     "owner": "Manuel",
     "name": "Pettit Garcia Luciano Joaquin",
-    "greeting": "Pettit Garcia Luciano Joaquin",
+    "greeting": "Luciano",
     "phone": "3513493408",
     "role": "Tecnico"
   },
@@ -1203,7 +1203,7 @@
     "id": "c150",
     "owner": "Manuel",
     "name": "Quevedo, Guillermina",
-    "greeting": "Quevedo, Guillermina",
+    "greeting": "Guillermina",
     "phone": "3564669973",
     "role": "Administrativa"
   },
@@ -1211,7 +1211,7 @@
     "id": "c151",
     "owner": "Manuel",
     "name": "Rovida, Fabricio",
-    "greeting": "Rovida, Fabricio",
+    "greeting": "Fabricio",
     "phone": "3512343679",
     "role": "Pintor"
   },
@@ -1219,7 +1219,7 @@
     "id": "c152",
     "owner": "Manuel",
     "name": "Savid, Ulises Javier",
-    "greeting": "Savid, Ulises Javier",
+    "greeting": "Ulises",
     "phone": "3516316910",
     "role": "Mantenimiento"
   },
@@ -1227,7 +1227,7 @@
     "id": "c153",
     "owner": "Manuel",
     "name": "Sosa, Eric",
-    "greeting": "Sosa, Eric",
+    "greeting": "Eric",
     "phone": "3512563244",
     "role": "Catrastro"
   },
@@ -1235,7 +1235,7 @@
     "id": "c154",
     "owner": "Manuel",
     "name": "Wicky Celeste Magali",
-    "greeting": "Wicky Celeste Magali",
+    "greeting": "Celeste",
     "phone": "3513077174",
     "role": "Administrativa"
   }

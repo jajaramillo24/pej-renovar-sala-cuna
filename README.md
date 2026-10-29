@@ -6,7 +6,7 @@ Invitaciones para la sala cuna Pico Picotero, sábado 7/11/2026, de 15 a 20 h.
 
 La página tiene pestañas por encargado, firma editable por pestaña, plantilla con `{nombre}` y `{remitente}`, saludo editable por contacto, vista previa, copia y apertura de WhatsApp, corrección de teléfono, advertencias de teléfonos duplicados, estados manuales y exportación CSV. Abrir un chat no marca un mensaje como enviado. No realiza envíos automáticos ni conecta con una API de WhatsApp. La sesión se vincula exclusivamente en WhatsApp Web mediante su QR oficial.
 
-Los nombres del listado tienen apellido antes del nombre. Por eso el saludo usa el nombre completo original y permite editarlo antes de enviar. Cuatro teléfonos de origen tienen longitud inválida y requieren corrección: Casas Chiara Delfina, Martinez Mia Nicole, Roldan Ileana y Lopez Marchese, Tomas Agustin. No se adivinaron números. Los teléfonos compartidos muestran una advertencia antes del envío.
+Los nombres del listado conservan apellido y nombre. El saludo usa el primer nombre de pila y permite editarlo antes de enviar. Cuatro teléfonos de origen tienen longitud inválida y requieren corrección: Casas Chiara Delfina, Martinez Mia Nicole, Roldan Ileana y Lopez Marchese, Tomas Agustin. No se adivinaron números. Los teléfonos compartidos muestran una advertencia antes del envío.
 
 Los cambios se guardan por navegador en localStorage, no se sincronizan entre dispositivos o personas. Los contactos iniciales están incluidos en la página pública; no publicar datos adicionales. Se excluyeron fechas de nacimiento, edades, CUIT, domicilios y correos del archivo original.
 
