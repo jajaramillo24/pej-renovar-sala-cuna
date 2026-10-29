@@ -20,7 +20,7 @@ GitHub Pages usa el workflow `.github/workflows/pages.yml` y publica solamente c
 
 ## Envío por QR desde la app
 
-Ejecutar `npm install` y `npm start`, y abrir http://127.0.0.1:3487/ en esta computadora. Cada encargado genera su QR, lo escanea desde Dispositivos vinculados en WhatsApp, revisa su tanda e inicia el envío desde el panel. No requiere abrir chats individuales. Los mensajes se envían secuencialmente; se puede detener la tanda. Un error incierto detiene el envío y requiere revisar el chat antes de reintentar. Se excluyen teléfonos inválidos, repetidos en la tanda y ya enviados por ese encargado.
+Ejecutar `npm install` y `npm start`, y abrir http://127.0.0.1:3488/ en esta computadora. Cada encargado genera su QR, lo escanea desde Dispositivos vinculados en WhatsApp, revisa su tanda e inicia el envío desde el panel. No requiere abrir chats individuales. Los mensajes se envían secuencialmente; se puede detener la tanda. Un error incierto detiene el envío y requiere revisar el chat antes de reintentar. Se excluyen teléfonos inválidos, repetidos en la tanda y ya enviados por ese encargado.
 
 GitHub Pages publica la agenda y el acceso al panel local; no ejecuta el servidor de WhatsApp. La modalidad online con QR para usuarios remotos todavía no está desplegada. El servidor solo acepta conexiones de 127.0.0.1, verifica Host y Origin y exige un token en cada POST. No exponer este servidor directamente a Internet: un despliegue remoto requiere autenticación por encargado y disco persistente. `app-data/`, que contiene sesiones y registros, está excluido de Git.
 
