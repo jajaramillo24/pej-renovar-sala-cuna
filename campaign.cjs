@@ -34,13 +34,13 @@ class Campaign {
       if(item.status!=='pending') continue;
       if(this.stopRequested || !this.isReady()) {item.status='cancelled';continue;}
       // Persistir ANTES de la operación remota: ante un cierre no se reenvía a ciegas.
-      const record={key:item.key,nombre:item.nombreCompleto,telefono:item.telefono,text:item.text,status:'sending',date:new Date().toISOString()};
+      const record={contactId:item.id,key:item.key,nombre:item.nombreCompleto,telefono:item.telefono,text:item.text,status:'sending',date:new Date().toISOString()};
       this.history.push(record);
       try {this.persist();} catch(error) {this.history.pop();throw error;}
       item.status='sending';this.notify();
       try {
         const result=await this.send(item);
-        item.status='sent';record.status='sent';record.messageId=result?.id?._serialized||'';
+        item.status='sent';record.status='sent';record.messageId=result?.key?.id||result?.id?._serialized||'';
       } catch(error) {
         // Un timeout no prueba que el mensaje no haya salido: no reintentar automáticamente.
         item.status=error.definitelyNotSent?'error':'uncertain';

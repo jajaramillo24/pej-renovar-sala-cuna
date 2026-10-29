@@ -1,40 +1,34 @@
 # Renovar · PEJ
 
-Invitaciones para la sala cuna Pico Picotero, sábado 7/11/2026, de 15 a 20 h.
+Invitaciones para renovar la sala cuna Pico Picotero, sábado 7/11/2026, de 15 a 20 h, Sarmiento esquina Alvear (T3).
 
-155 contactos de la tabla original más reciente (29/10/2026, 20:34 UTC). Las celdas vacías de encargado continúan el bloque anterior: Guille, Mili, Lauti, Nai, Emi y Jey tienen 22 personas cada uno; Manuel tiene 23. No se incorporaron los nueve directores de la campaña anterior porque corresponden a otra lista.
+155 contactos de la tabla original más reciente. Las celdas vacías de encargado continúan el bloque anterior: Guille, Mili, Lauti, Nai, Emi y Jey tienen 22 personas cada uno; Manuel, 23. Se conservaron nombre, teléfono y rol. Se excluyeron CUIT, domicilio, fecha de nacimiento, edad y correo.
 
-La página tiene pestañas por encargado, firma editable por pestaña, plantilla con `{nombre}` y `{remitente}`, saludo editable por contacto, vista previa, copia y apertura de WhatsApp, corrección de teléfono, advertencias de teléfonos duplicados, estados manuales y exportación CSV. Abrir un chat no marca un mensaje como enviado. No realiza envíos automáticos ni conecta con una API de WhatsApp. La sesión se vincula exclusivamente en WhatsApp Web mediante su QR oficial.
+## Funcionamiento
 
-Los nombres del listado conservan apellido y nombre. El saludo usa el primer nombre de pila y permite editarlo antes de enviar. Cuatro teléfonos de origen tienen longitud inválida y requieren corrección: Casas Chiara Delfina, Martinez Mia Nicole, Roldan Ileana y Lopez Marchese, Tomas Agustin. No se adivinaron números. Los teléfonos compartidos muestran una advertencia antes del envío.
+Cada navegador mantiene una sesión privada mediante cookie HttpOnly, SameSite=Strict y Secure en producción. Los QR, cuentas, tandas e historiales están aislados por navegador y encargado. Un usuario escanea con su propio WhatsApp, revisa destinatarios y textos y presiona Enviar todos los mensajes. El servidor envía la tanda secuencialmente; no hay que abrir chats individuales. Se puede detener y revisar resultados inciertos antes de reintentar. Las marcas de enviados se conservan también en el navegador.
 
-Los cambios se guardan por navegador en localStorage, no se sincronizan entre dispositivos o personas. Los contactos iniciales están incluidos en la página pública; no publicar datos adicionales. Se excluyeron fechas de nacimiento, edades, CUIT, domicilios y correos del archivo original.
+Los teléfonos inválidos se excluyen de la tanda; pueden corregirse en la agenda. Los duplicados se señalan y se omiten dentro de la tanda. Un envío aceptado por WhatsApp no implica lectura ni entrega al destinatario. No se enviaron mensajes reales durante las verificaciones.
+
+## Despliegue
+
+GitHub Pages sirve la agenda y enlaza al servidor online configurado en online.json. Render ejecuta esta misma app con Node 22 y Baileys, sin Chromium. El plan Free tiene sistema de archivos efímero: reinicios, nuevas publicaciones o suspensión por inactividad pueden perder la vinculación y el historial del servidor. La interfaz conserva el seguimiento del navegador y requiere volver a escanear cuando corresponde. Para retención duradera de sesiones entre reinicios se necesita almacenamiento persistente. No se promete uso permanente de la sesión en el plan gratuito.
+
+La integración usa Baileys, un cliente no oficial de WhatsApp. No garantiza evitar restricciones de WhatsApp. Las sesiones y credenciales de app-data/ están excluidas del repositorio. No compartas cookies, QR ni la carpeta de sesiones.
 
 ## Desarrollo
 
-`npm test` valida asignaciones, teléfonos y enlaces personalizados. `npm start` sirve la página en http://localhost:4173. No necesita dependencias ni compilación.
+`npm ci`, `npm test`, `npm start`. El servidor local escucha en http://127.0.0.1:3488/. En Render usa PORT, RENDER y RENDER_EXTERNAL_URL. El health check es /healthz. El archivo render.yaml describe la configuración gratuita.
 
-## Publicación
+## API
 
-GitHub Pages usa el workflow `.github/workflows/pages.yml` y publica solamente cinco archivos del sitio. Seleccionar GitHub Actions como origen de Pages en el repositorio. Cada push a main ejecuta las verificaciones y actualiza la página.
-
-## Envío por QR desde la app
-
-Ejecutar `npm install` y `npm start`, y abrir http://127.0.0.1:3488/ en esta computadora. Cada encargado genera su QR, lo escanea desde Dispositivos vinculados en WhatsApp, revisa su tanda e inicia el envío desde el panel. No requiere abrir chats individuales. Los mensajes se envían secuencialmente; se puede detener la tanda. Un error incierto detiene el envío y requiere revisar el chat antes de reintentar. Se excluyen teléfonos inválidos, repetidos en la tanda y ya enviados por ese encargado.
-
-GitHub Pages publica la agenda y el acceso al panel local; no ejecuta el servidor de WhatsApp. La modalidad online con QR para usuarios remotos todavía no está desplegada. El servidor solo acepta conexiones de 127.0.0.1, verifica Host y Origin y exige un token en cada POST. No exponer este servidor directamente a Internet: un despliegue remoto requiere autenticación por encargado y disco persistente. `app-data/`, que contiene sesiones y registros, está excluido de Git.
-
-El cliente whatsapp-web.js es no oficial. No se garantiza evitar restricciones de WhatsApp. El estado Enviado indica que se completó la operación de envío, no que se leyó el mensaje.
-
-### API local
-
-GET `/api/state?owner=Emi` devuelve conexión, QR, progreso y token. Los POST requieren JSON, Origin del panel y X-App-Token.
+GET /api/state?owner=Emi devuelve conexión, QR, cuenta, progreso y token de la sesión del navegador. Cada POST requiere JSON, cookie, Origin de la app y encabezado X-App-Token. La autorización de un navegador no sirve en otro.
 
 | Ruta POST | Datos además de owner | Resultado |
 | --- | --- | --- |
-| /api/connect | ninguno | Genera QR |
-| /api/preview | sender, template, ids, overrides | Mensajes exactos, exclusiones y plan de 15 minutos |
+| /api/connect | ninguno | Genera QR o restaura sesión |
+| /api/preview | sender, template, ids, overrides | Plan con textos exactos y exclusiones, válido 15 minutos |
 | /api/send | planId, confirmed | Inicia la tanda revisada |
-| /api/stop | ninguno | Detiene pendientes |
-| /api/resolve | key, status | Resuelve un envío incierto |
-| /api/disconnect | ninguno | Desvincula WhatsApp |
+| /api/stop | ninguno | Cancela pendientes tras finalizar el envío actual |
+| /api/resolve | key, status | Resuelve un resultado incierto revisado en el chat |
+| /api/disconnect | ninguno | Desvincula la cuenta |
