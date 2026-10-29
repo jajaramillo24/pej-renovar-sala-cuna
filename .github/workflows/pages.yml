@@ -25,7 +25,7 @@ jobs:
       - name: Preparar sitio
         run: |
           mkdir dist
-          cp index.html styles.css app.js core.js contacts.json dist/
+          cp index.html styles.css app.js core.js bulk.js contacts.json dist/
           touch dist/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
